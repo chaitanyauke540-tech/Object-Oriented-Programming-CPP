@@ -1,0 +1,32 @@
+# Build directories
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/compile_commands.json
+
+# C++ compiler, linker, and debugger output
+*.o
+*.obj
+*.gch
+*.pch
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+*.ilk
+*.dSYM/
+/a.out
+
+# Local editor and operating-system files
+/.vscode/
+/.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
